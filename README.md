@@ -1,6 +1,6 @@
 <h1>SQL Injection Fundamentals Guide and Video</h1>
 
- ### [YouTube Demonstration]()
+ ### [YouTube Demonstration](https://youtu.be/KTZWpXlehmY)
 
 <h2>Description</h2>
 SQL Injection with HTB Academy 
